@@ -42,7 +42,7 @@ Code-5)
 - Quantization
 
 Code-6)
-- Down sample
+- Down sampling
     - Analysis of down sampling in time domain
     - Analysis of down sampling in the frequency domain
     -Anti-aliasing filter
