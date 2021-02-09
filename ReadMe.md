@@ -1,4 +1,7 @@
+<div align="center">
+
 # Digital Signal Processing
+</div>
 
 ### In these studies, basic subjects related to digital signal processing were discussed, necessary investigations and comments were made. 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/60669304/107400081-89c67480-6b12-11eb-83e4-06c6878740ee.PNG)
