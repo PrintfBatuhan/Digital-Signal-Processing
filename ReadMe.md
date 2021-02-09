@@ -1,6 +1,6 @@
-#Digital Signal Processing
+# Digital Signal Processing
 
-###In these studies, basic issues related to digital signal processing were discussed, necessary investigations and comments were made. 
+### In these studies, basic subjects related to digital signal processing were discussed, necessary investigations and comments were made. 
 
 Code-1)
 - Creating an index array.
