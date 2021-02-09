@@ -3,9 +3,9 @@
 ### In these studies, basic subjects related to digital signal processing were discussed, necessary investigations and comments were made. 
 
 Code-1)
-- Creating an index array.
-- Creating a sequence of signals.
-- To draw graphics.
+- Create a vector (array).
+- Creating a series of signals.
+- Graph plotting.
 - Four operations on complex numbers, cartesian, polar representation
 
 Code-2)
