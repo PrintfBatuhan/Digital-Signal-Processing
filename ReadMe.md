@@ -27,29 +27,29 @@ Code-4)
 - Estimating the frequency response from the Pole-zero diagram. 
 
 Code-5)
-• Sampling of signs
+- Sampling of signs
     - Analysis of sampling in time domain
     - Examination of sampling in the frequency domain
-• Overlap
+- Overlap
     - Effect of overlap in time domain
     - Effect of overlap in the frequency domain
-• Continuous time signal recovery
+- Continuous time signal recovery
     - Time domain
     - in the frequency domain
-• Quantization
+- Quantization
 
 Code-6)
-• Down sample
+- Down sample
     - Analysis of down sampling in time domain
     - Analysis of down sampling in the frequency domain
     -Anti-aliasing filter
-• Up sampling 
+- Up sampling 
     - Analysis of up sampling in time domain
     - Examination of up sampling in the frequency domain
     - Interpolation process 
 
 Code-7)
-• Amplitude, phase response and group delay concepts
-• Linear phase concept and linear phase FIR systems
-• Filter design
-• Use of Pyfda filter design interface for filter design. 
+- Amplitude, phase response and group delay concepts
+- Linear phase concept and linear phase FIR systems
+- Filter design
+- Use of Pyfda filter design interface for filter design. 
